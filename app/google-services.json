@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20432161957",
+    "project_id": "sportopia-d4cbd",
+    "storage_bucket": "sportopia-d4cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20432161957:android:d27ddd81af1b9667ae514c",
+        "android_client_info": {
+          "package_name": "com.example.sportopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrmZeiqbTEWSC515UwChdl9ZcsUnJAt2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

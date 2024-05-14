@@ -1,0 +1,16 @@
+package com.example.sportopia.navigation
+
+const val ROUT_SPLASH = "splash"
+const val ROUT_LOGIN = "login"
+const val ROUT_SIGNUP = "signup"
+const val ROUT_HOME = "home"
+const val ROUT_APPLY = "apply"
+const val ROUT_BASKETBALL = "basketball"
+const val ROUT_VOLLEYBALL = "cloud"
+const val ROUT_HOCKEY = "cyber"
+const val ROUT_TENNIS = "frontend"
+const val ROUT_FOOTBALL = "fullstack"
+const val ROUT_GOLF = "graphics"
+const val ROUT_TEST = "test"
+const val ROUT_OTHERS = "other"
+const val ROUT_SUCCESS = "success"
